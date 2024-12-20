@@ -167,14 +167,17 @@ padding-bottom: 188px;
 }
 
 .list-description {
-    display: flex;
+    display: flex; 
+    width:"11px 28px";
     margin-left: 0;
     gap: 24px;
 }
 
 .list {
     width: calc((100% - 3 * 24px) / 4);
+    width: 264px;
 }
+
 
 .title-description {
     font-weight: 500;
