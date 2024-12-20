@@ -168,8 +168,8 @@ padding-bottom: 188px;
 
 .list-description {
     display: flex; 
-    width:"11px 28px";
-    margin-left: 0;
+    width: 1128px;
+    margin: 0 auto;
     gap: 24px;
 }
 
