@@ -55,7 +55,7 @@ align-items: center;
    color: #2e2f42;
 }
 
-.list-description {
+.list-navigation {
    display: flex;
    gap: 40px;
    text-align: center;
