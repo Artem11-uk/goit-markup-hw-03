@@ -171,6 +171,7 @@ padding-bottom: 188px;
     width: 1128px;
     margin: 0 auto;
     gap: 24px;
+    padding-left: 0;
 }
 
 .list {
